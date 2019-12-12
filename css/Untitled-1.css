@@ -1,0 +1,170 @@
+body {
+    margin: 0;
+}
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+    height: inherit;
+}
+header {
+    background: rgb(243, 97,97);
+    color: white;
+    padding-bottom: 20px;
+}
+header .logotype {
+    margin-left: 80px;
+    margin-top: 10px;
+    display: inline-block;
+}
+header .logotype span {
+    color: white;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+nav {
+    float: right;
+    margin-right: -130px;
+    font-size: 20px;
+    width: 700px;
+    margin-top: 10px;
+}
+nav ul {
+    list-style-type: none;
+
+}
+nav ul li {
+    display: inline-block;
+    padding-right: 35px;
+}
+aside {
+    background: rgb(235, 80, 78);
+    text-align: center;
+    color: white;
+    margin-top: -40px;
+    padding-bottom: 20px;
+}
+h1 {
+    color: white;
+    font-size: 45px;
+    letter-spacing: 4px;
+    margin-bottom: 10px;
+    padding-top: 40px;
+}
+article {
+    background: rgb(34, 34, 34);
+    margin-top: -25px;
+}
+.advantage1, .advantage2, .advantage3 {
+    display: inline-block;
+    margin-left: 140px;
+    margin-top: 15px;
+    text-align: center;
+}
+.pctr1, .pctr2, .pctr3 {
+    width: 80px;
+    height: 80px;
+}
+h2, .smile {
+    text-align: center;
+}
+.advantage1 {
+    margin-right: -40px;
+}
+.advantage2 {
+    margin-right: -40px;
+}
+h2 {
+    color: white;
+    font-size: 30px;
+    letter-spacing: 4px;
+    margin-bottom: -8px;
+    padding-top: 30px;
+}
+article .smile {
+    color: rgb(235, 80, 78);
+}
+article .nameadv {
+    color: white;
+    font-size: 22px;
+    margin-top: 10px;
+}
+article .latin {
+    color: rgb(235, 80, 78);
+    margin-top: -15px;
+}
+main {
+    background: rgb(108, 195, 114);
+    margin-top: -25px;
+    padding-bottom: 20px;
+}
+main .team {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.dude1, .dude2, .dude3, .dude4 {
+    display: inline-block;
+    text-align: center;
+    width: 165px;
+    height: 267px;
+    background: white;
+}
+main .d {
+    width: 130px;
+    height: 120px;
+    padding-top: 20px;
+}
+.dude1 {
+    margin-right: 10px;
+}
+.dude2 {
+    margin-right: 10px;
+}
+.dude3 {
+    margin-right: 10px;
+}
+.dude1 {
+    margin-left: 160px;
+}
+main .name {
+    color: rgb(108, 195, 114);
+    font-size: 18px;
+}
+main .job {
+    color: rgb(243, 97,97);
+    margin-top: -10px;
+}
+input[type=button] {
+    width: 150px;
+    height: 35px;
+    margin-bottom: 20px;
+    background: rgb(108, 195, 114);
+    color: white;
+    font-size: 15px;
+    letter-spacing: 3px;
+}
+footer {
+    background: rgb(34, 34, 34);
+    overflow: hidden;
+    margin-top: 1px;
+}
+footer .copy {
+    margin-left: 160px;
+    color: white;
+}
+.webs {
+    float: right;
+    margin-right: 160px;
+    margin-top: -43px;
+}
+.web {
+    display: inline-block;
+}
+footer .red {
+    color: rgb(235, 80, 78);
+}
+
+
+
+
+
+
